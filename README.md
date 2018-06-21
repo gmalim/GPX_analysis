@@ -16,4 +16,8 @@ Data manipulation is done using [gpxpy](https://github.com/tkrajina/gpxpy), a GP
 This repository contains two analyses in the form of Python Jupyter Notebooks that can be viewed online using [Jupyter nbviewer](https://nbviewer.jupyter.org/), which has improved display rendering capabilities compared to Github:
 
 1. [Single file analysis](https://nbviewer.jupyter.org/github/gmalim/GPX_analysis/blob/master/GPX_analysis_singlefile.ipynb)
+	- [Resulting folium map](https://gmalim.github.io/GPX_analysis/folium_test.html)
+	- [Resulting mplleaflet map](https://gmalim.github.io/GPX_analysis/mplleaflet_test.html)
+
 2. [Multiple file analysis](https://nbviewer.jupyter.org/github/gmalim/GPX_analysis/blob/master/GPX_analysis_multiplefiles.ipynb)
+	- [Resulting heatmap](https://gmalim.github.io/GPX_analysis/index.html)
