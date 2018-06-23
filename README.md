@@ -8,7 +8,7 @@ Data manipulation is done using [gpxpy](https://github.com/tkrajina/gpxpy), a GP
 
 ## Analysis:
 
-This repository contains two analyses of some example GPX running data (see [data](data) directory) in the form of Python Jupyter Notebooks that can be viewed online using the online [Jupyter nbviewer](https://nbviewer.jupyter.org/), which has improved display rendering capabilities compared to Github:
+This repository contains two analyses of some example GPX running data (see [data](data) directory) in the form of Python Jupyter Notebooks that are best viewed online using [Jupyter nbviewer](https://nbviewer.jupyter.org/), which has improved display rendering capabilities compared to Github:
 
 1. [*GPX_analysis_singlefile.ipynb*](https://nbviewer.jupyter.org/github/gmalim/GPX_analysis/blob/master/GPX_analysis_singlefile.ipynb) (one run)
 2. [*GPX_analysis_multiplefiles.ipynb*](https://nbviewer.jupyter.org/github/gmalim/GPX_analysis/blob/master/GPX_analysis_multiplefiles.ipynb) (multiple runs)
@@ -17,7 +17,7 @@ This repository contains two analyses of some example GPX running data (see [dat
 
 The analyses produce the following HTML maps:
 
-- [*folium_map.html*](https://gmalim.github.io/GPX_analysis/folium_map.html) (leaflet)
+- [*folium_map.html*](https://gmalim.github.io/GPX_analysis/folium_map.html) (leaflet map)
 - [*mplleaflet_map.html*](https://gmalim.github.io/GPX_analysis/mplleaflet_map.html) (leaflet map)
 - [*gmplot_heatmap.html*](https://gmalim.github.io/GPX_analysis/gmplot_heatmap.html) (heatmap)
 
