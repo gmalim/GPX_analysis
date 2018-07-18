@@ -69115,20 +69115,6 @@
           </ns3:TrackPointExtension>
         </extensions>
       </trkpt>
-      <trkpt lat="37.7676661312580108642578125" lon="-122.51056035049259662628173828125">
-        <ele>6</ele>
-        <time>2017-05-21T18:22:58.000Z</time>
-        <extensions>
-          <ns3:TrackPointExtension/>
-        </extensions>
-      </trkpt>
-      <trkpt lat="37.767667807638645172119140625" lon="-122.51055993139743804931640625">
-        <ele>6</ele>
-        <time>2017-05-21T18:22:59.000Z</time>
-        <extensions>
-          <ns3:TrackPointExtension/>
-        </extensions>
-      </trkpt>
     </trkseg>
   </trk>
 </gpx>
